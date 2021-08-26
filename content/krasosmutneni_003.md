@@ -1,7 +1,0 @@
----
-title: ''
----
-
-Krasosmutnění
-
-Bohumil Hrabal
