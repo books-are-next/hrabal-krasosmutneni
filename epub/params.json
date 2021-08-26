@@ -17,11 +17,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "MLP-text-bez1radku \nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0",
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "MLP-znak-kurziva-9b",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -31,9 +31,12 @@
         "filename": "krasosmutneni_001.md",
         "xhtml": "krasosmutneni_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_002.md",
@@ -41,7 +44,10 @@
         "id": 1,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_003.md",
@@ -49,15 +55,21 @@
         "id": 2,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_004.md",
         "xhtml": "krasosmutneni_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_005.md",
@@ -65,7 +77,10 @@
         "id": 4,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Mořská panna",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_006.md",
@@ -73,7 +88,10 @@
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Čtvereční centimetr za šedesát korun",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_007.md",
@@ -81,7 +99,10 @@
         "id": 6,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Každý den zázrak",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_008.md",
@@ -89,7 +110,10 @@
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Rozdělený byt",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_009.md",
@@ -97,7 +121,10 @@
         "id": 8,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Znesvěcený rozdělovač",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_010.md",
@@ -105,7 +132,10 @@
         "id": 9,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Úmrtí v rodině",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_011.md",
@@ -113,7 +143,10 @@
         "id": 10,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Řidič pražských tramvají",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_012.md",
@@ -121,7 +154,10 @@
         "id": 11,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Veřejné osvětlení",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_013.md",
@@ -129,7 +165,10 @@
         "id": 12,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Myš ukradla dítěti cumel",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_014.md",
@@ -137,7 +176,10 @@
         "id": 13,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Krasosmutnění",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_015.md",
@@ -145,7 +187,10 @@
         "id": 14,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Ovčí hubičky",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_016.md",
@@ -153,7 +198,10 @@
         "id": 15,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Když umře hospodář, pláče i dobytek",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_017.md",
@@ -161,7 +209,10 @@
         "id": 16,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Jetel růžák",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_018.md",
@@ -169,7 +220,10 @@
         "id": 17,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Návrat ztraceného strýce",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_019.md",
@@ -177,7 +231,10 @@
         "id": 18,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Škodovka čtyřistatřicítka",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_020.md",
@@ -185,7 +242,10 @@
         "id": 19,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Krásná řeznice",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_021.md",
@@ -193,7 +253,10 @@
         "id": 20,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Hudebníci ze Šumavy",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_022.md",
@@ -201,7 +264,10 @@
         "id": 21,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Sextánka",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_023.md",
@@ -209,7 +275,10 @@
         "id": 22,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Armagedon",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_024.md",
@@ -217,7 +286,10 @@
         "id": 23,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Rakouský vítěz",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_025.md",
@@ -225,7 +297,10 @@
         "id": 24,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Žlutý pták",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_026.md",
@@ -233,7 +308,10 @@
         "id": 25,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Altánek z proutí",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_027.md",
@@ -241,15 +319,21 @@
         "id": 26,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "Kmotříček",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_028.md",
         "xhtml": "krasosmutneni_028.xhtml",
         "id": 27,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "krasosmutneni_029.md",
@@ -257,7 +341,10 @@
         "id": 28,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       }
     ]
   },
@@ -267,7 +354,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-26T07:54:46.665Z"
+      "modified": "2021-08-26T07:59:53.644Z"
     },
     "chapters": [
       {
@@ -295,139 +382,139 @@
         "xhtml": "krasosmutneni_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mořská panna",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_005.md",
         "xhtml": "krasosmutneni_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtvereční centimetr za šedesát korun",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_006.md",
         "xhtml": "krasosmutneni_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Každý den zázrak",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_007.md",
         "xhtml": "krasosmutneni_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozdělený byt",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_008.md",
         "xhtml": "krasosmutneni_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Znesvěcený rozdělovač",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_009.md",
         "xhtml": "krasosmutneni_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úmrtí v rodině",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_010.md",
         "xhtml": "krasosmutneni_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Řidič pražských tramvají",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_011.md",
         "xhtml": "krasosmutneni_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Veřejné osvětlení",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_012.md",
         "xhtml": "krasosmutneni_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Myš ukradla dítěti cumel",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_013.md",
         "xhtml": "krasosmutneni_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Krasosmutnění",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_014.md",
         "xhtml": "krasosmutneni_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ovčí hubičky",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_015.md",
         "xhtml": "krasosmutneni_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když umře hospodář, pláče i dobytek",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_016.md",
         "xhtml": "krasosmutneni_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jetel růžák",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_017.md",
         "xhtml": "krasosmutneni_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Návrat ztraceného strýce",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_018.md",
         "xhtml": "krasosmutneni_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Škodovka čtyřistatřicítka",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_019.md",
         "xhtml": "krasosmutneni_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Krásná řeznice",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_020.md",
         "xhtml": "krasosmutneni_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hudebníci ze Šumavy",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_021.md",
         "xhtml": "krasosmutneni_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sextánka",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_022.md",
         "xhtml": "krasosmutneni_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Armagedon",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_023.md",
         "xhtml": "krasosmutneni_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rakouský vítěz",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_024.md",
         "xhtml": "krasosmutneni_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žlutý pták",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_025.md",
         "xhtml": "krasosmutneni_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Altánek z proutí",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_026.md",
         "xhtml": "krasosmutneni_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kmotříček",
         "subtitleSuggest": "",
         "filename": "krasosmutneni_027.md",
         "xhtml": "krasosmutneni_027.xhtml"
@@ -509,6 +596,6 @@
       "user": "books-are-next",
       "repo": "hrabal-krasosmutneni"
     },
-    "generatedAt": 1629964487143
+    "generatedAt": 1629964794337
   }
 }
