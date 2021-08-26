@@ -1,13 +1,13 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-krasosmutneni-6ecdcb5",
+  "identifier": "hrabal-krasosmutneni-6275fda",
   "modified": "2021-08-26T07:54:46.665Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Krasosmutnění",
-  "revision": "6ecdcb5",
+  "revision": "6275fda",
   "generatedAt": {
-    "date": "Thu Aug 26 2021 08:26:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1629966370492
+    "date": "Thu Aug 26 2021 08:36:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1629967003163
   },
   "documents": [
     {
@@ -18,7 +18,7 @@
       "ideas": 19,
       "role": "colophon",
       "order": null,
-      "next": "krasosmutneni_001.html",
+      "next": "krasosmutneni_005.html",
       "toc": [
         {
           "index": 0,
@@ -45,7 +45,7 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "krasosmutneni_001.html",
+      "next": "krasosmutneni_005.html",
       "toc": []
     },
     {
@@ -54,10 +54,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "krasosmutneni_002.html",
+      "role": "other",
+      "order": null,
+      "next": "krasosmutneni_005.html",
       "toc": [
         {
           "index": 0,
@@ -74,10 +73,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "krasosmutneni_001.html",
-      "next": "krasosmutneni_003.html",
+      "role": "other",
+      "order": null,
+      "next": "krasosmutneni_005.html",
       "toc": [
         {
           "index": 0,
@@ -94,9 +92,8 @@
       "words": 3,
       "chars": 27,
       "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "krasosmutneni_002.html",
+      "role": "other",
+      "order": null,
       "next": "krasosmutneni_005.html",
       "toc": [
         {
@@ -115,8 +112,8 @@
       "chars": 16190,
       "ideas": 76,
       "role": "chapter",
-      "order": 3,
-      "prev": "krasosmutneni_003.html",
+      "order": 0,
+      "prev": null,
       "next": "krasosmutneni_006.html",
       "toc": [
         {
@@ -135,7 +132,7 @@
       "chars": 19805,
       "ideas": 62,
       "role": "chapter",
-      "order": 4,
+      "order": 1,
       "prev": "krasosmutneni_005.html",
       "next": "krasosmutneni_007.html",
       "toc": [
@@ -155,7 +152,7 @@
       "chars": 14777,
       "ideas": 27,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "krasosmutneni_006.html",
       "next": "krasosmutneni_008.html",
       "toc": [
@@ -175,7 +172,7 @@
       "chars": 15224,
       "ideas": 14,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "krasosmutneni_007.html",
       "next": "krasosmutneni_009.html",
       "toc": [
@@ -195,7 +192,7 @@
       "chars": 14254,
       "ideas": 32,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "krasosmutneni_008.html",
       "next": "krasosmutneni_010.html",
       "toc": [
@@ -215,7 +212,7 @@
       "chars": 12175,
       "ideas": 20,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "krasosmutneni_009.html",
       "next": "krasosmutneni_011.html",
       "toc": [
@@ -235,7 +232,7 @@
       "chars": 16135,
       "ideas": 60,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "krasosmutneni_010.html",
       "next": "krasosmutneni_012.html",
       "toc": [
@@ -255,7 +252,7 @@
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "krasosmutneni_011.html",
       "next": "krasosmutneni_013.html",
       "toc": [
@@ -275,7 +272,7 @@
       "chars": 19643,
       "ideas": 32,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "krasosmutneni_012.html",
       "next": "krasosmutneni_014.html",
       "toc": [
@@ -295,7 +292,7 @@
       "chars": 16481,
       "ideas": 47,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "krasosmutneni_013.html",
       "next": "krasosmutneni_015.html",
       "toc": [
@@ -315,7 +312,7 @@
       "chars": 12,
       "ideas": 1,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "krasosmutneni_014.html",
       "next": "krasosmutneni_016.html",
       "toc": [
@@ -335,7 +332,7 @@
       "chars": 11625,
       "ideas": 12,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "krasosmutneni_015.html",
       "next": "krasosmutneni_017.html",
       "toc": [
@@ -355,7 +352,7 @@
       "chars": 14306,
       "ideas": 4,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "krasosmutneni_016.html",
       "next": "krasosmutneni_018.html",
       "toc": [
@@ -375,7 +372,7 @@
       "chars": 13263,
       "ideas": 51,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "krasosmutneni_017.html",
       "next": "krasosmutneni_019.html",
       "toc": [
@@ -395,7 +392,7 @@
       "chars": 16191,
       "ideas": 66,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "krasosmutneni_018.html",
       "next": "krasosmutneni_020.html",
       "toc": [
@@ -415,7 +412,7 @@
       "chars": 16560,
       "ideas": 51,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "krasosmutneni_019.html",
       "next": "krasosmutneni_021.html",
       "toc": [
@@ -435,7 +432,7 @@
       "chars": 12493,
       "ideas": 3,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "krasosmutneni_020.html",
       "next": "krasosmutneni_022.html",
       "toc": [
@@ -455,7 +452,7 @@
       "chars": 17828,
       "ideas": 3,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "krasosmutneni_021.html",
       "next": "krasosmutneni_023.html",
       "toc": [
@@ -475,7 +472,7 @@
       "chars": 11583,
       "ideas": 18,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "krasosmutneni_022.html",
       "next": "krasosmutneni_024.html",
       "toc": [
@@ -495,7 +492,7 @@
       "chars": 12394,
       "ideas": 20,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "krasosmutneni_023.html",
       "next": "krasosmutneni_025.html",
       "toc": [
@@ -515,7 +512,7 @@
       "chars": 9856,
       "ideas": 8,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "krasosmutneni_024.html",
       "next": "krasosmutneni_026.html",
       "toc": [
@@ -535,7 +532,7 @@
       "chars": 10647,
       "ideas": 18,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "krasosmutneni_025.html",
       "next": "krasosmutneni_027.html",
       "toc": [
@@ -555,9 +552,9 @@
       "chars": 18473,
       "ideas": 41,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "krasosmutneni_026.html",
-      "next": "krasosmutneni_029.html",
+      "next": null,
       "toc": [
         {
           "index": 0,
@@ -574,10 +571,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 26,
-      "prev": "krasosmutneni_027.html",
-      "next": null,
+      "role": "other",
+      "order": null,
+      "next": "krasosmutneni_005.html",
       "toc": [
         {
           "index": 0,
@@ -596,7 +592,7 @@
       "ideas": 0,
       "role": "other",
       "order": null,
-      "next": "krasosmutneni_001.html",
+      "next": "krasosmutneni_005.html",
       "toc": []
     }
   ],
@@ -607,9 +603,9 @@
       "ideas": 688
     },
     "chapters": {
-      "words": 54344,
-      "chars": 309959,
-      "ideas": 669
+      "words": 54341,
+      "chars": 309932,
+      "ideas": 667
     }
   }
 }
