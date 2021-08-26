@@ -8,9 +8,6 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-26T07:54:46.665Z'
 chapters:
-  - krasosmutneni_001.html
-  - krasosmutneni_002.html
-  - krasosmutneni_003.html
   - krasosmutneni_005.html
   - krasosmutneni_006.html
   - krasosmutneni_007.html
@@ -34,7 +31,6 @@ chapters:
   - krasosmutneni_025.html
   - krasosmutneni_026.html
   - krasosmutneni_027.html
-  - krasosmutneni_029.html
 tocBase:
   - link: krasosmutneni_005.html
     title: Mořská panna
