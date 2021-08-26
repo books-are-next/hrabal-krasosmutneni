@@ -2,6 +2,8 @@
 title: Rakouský vítěz
 ---
 
+  
+
 Na náměstí, pod podloubím, tam jak se šlo do školy, měl knihkupectví a papírnictví pan Fuchs. Ten neprodal knihu jen tak. Napřed se vyptal, na co ta kniha je, pro koho, potom o té knize udělal přednášku a teprve pak ji prodal. Byl nerad, když to byla vzácná kniha, nerad se jí zbavoval, a když, tak ihned si nechal z Prahy poslat tu samou knihu, aby ji měl v regále. A že byl rok v Indii, tak od té doby měl takové krásné oči. Když prodával knihy v přítmí kvelbu, zářily tam ty jeho oči, veliké hnědé oči malinko posunuté, zrovna tak, jako když tatínek měl špatně seřízené reflektory na škodovce čtyřistatřicítce. Jedním reflektorem se díval do příkopu a druhým k nebi. A každému, koho měl pan Fuchs rád, tak každému zasvěceně pravil.
 
 Lepší se to v oblastech duchovních.
@@ -40,4 +42,4 @@ Jako vždycky, rakouské voják je vítěz!
 
   
 
-[2](#footnote-27518-2-backlink) Poslušně hlásím, hotovo! Pozn. red.
+[2](#footnote-27518-2-backlink) Poslušně hlásím, hotovo! _Pozn. red._
