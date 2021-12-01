@@ -1,11 +1,14 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Krasosmutnění",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-26T07:54:46.665Z"
+      "modified": "2021-08-26T07:54:46.665Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -31,7 +34,7 @@
         "filename": "krasosmutneni_001.md",
         "xhtml": "krasosmutneni_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "title": "",
@@ -599,3 +602,4 @@
     "generatedAt": 1629964794337
   }
 }
+
