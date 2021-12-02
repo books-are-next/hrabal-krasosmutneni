@@ -32,7 +32,7 @@ A rota hannoverské školy vyšla od Kulichova pekařství, strýc Pepin odšro
 
 A hlásil.
 
-Melde gehorsam, fertig![2](#footnote-27518-2)
+Melde gehorsam, fertig![^2]
 
 Rota hannoverské školy se seřadila, velitel vykročil a říšští vojáci se vraceli z cvičení v plné polní a začali zpívat.
 
@@ -42,4 +42,4 @@ Jako vždycky, rakouské voják je vítěz!
 
   
 
-[2](#footnote-27518-2-backlink) Poslušně hlásím, hotovo! _Pozn. red._
+[^2]: Poslušně hlásím, hotovo! _Pozn. red._

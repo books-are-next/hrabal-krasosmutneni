@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Znění tohoto textu vychází z díla [Krasosmutnění](https://search.mlp.cz/cz/titul/krasosmutneni/2653130/#book-content) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2007. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -21,9 +23,7 @@ Verze 1.0 z 19. 3. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 Bohumil Hrabal  
 Krasosmutnění

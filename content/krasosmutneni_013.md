@@ -28,7 +28,7 @@ Co tady děláš?
 
 A klíčem od komínu jsem povolil želízka a hodil si je přes rameno a vrátil jsem se k fůrám, vrchovatým ledovým táflemi průzračného ledu. Teď strýc motykou vyrazil karhák, bočné čelo vozu povolilo a ledové kry padaly rovnou do trychtýře drtiče, ledaři stáli z boku a hákem pomáhali, aby led padal do ocelových zubů, které křoupaly led jako bonbóny. Dva stáli na voze a hákem shora bili ostrými bodáky do ledu jak svatý Jiří, když dobíjí z koně draka. A já jsem stál, brusle přes rameno na řemínku, a nevěděl, na co se dřív dívat, na ledaře omotané barevnými šálami a slámou jak pumpy, na otevřené osvětlené dveře malého domečku přilepeného na lednici, kde přes noc byly uloženy drahé řemeny, ale teď tady byla pořád rozpálená plotna kamen, kde se vařila voda na čaj a grog. Nevěděl jsem, zda se mám dívat vzhůru, jak skrz šalování padají z korečkového pásu tříštivé kousky ledu, či se držet ostění a dívat se na hrůzně žravé zuby drtiče, které stále s větší a větší chutí chroupají ty zasklené kousky zamrzlé hladiny řeky, hrozný drtič, který, když ledaři se zapomenou, tak s tou samou chutí rozláme háky i s dřevěnými tyčemi, že lítají třísky a zlámané štýly hrozí zraněním. Z kluziště na řece zazníval gramofon a skřípání bruslí na led píšících kroužky, ale strýc Pepin hákem zápasil s ledem, útočil na vzpouzející se kry, a docela křičel, jak na frontě.
 
-Links pariert! Rechts pariert! Einfacher Stoss![1](#footnote-27518-1)
+Links pariert! Rechts pariert! Einfacher Stoss![^1]
 
 A bim ho! A strýc minul hákem led, ale ledař jej zachytil za rukáv, aby strýc nebyl sešrotován i s ledem. Všichni ledaři byli o hlavu vyšší než strýc, ale Pepin, když nemohl zápasit s ledem, tak zápasil a bil se hákem s ledaři. A když i to mu bylo málo, dal se s nimi do křížku, odhodil háky a zápasili, ledaři smíchy tak zeslábli, že se dávali povalit na lopatky, a ostatní klekali, a když zjistili, že ledař je na lopatkách, zvedali strýce jako děťátko, protože všichni byli obři. A korečkový výtah si taky odpočinul, kapsy cvakaly zvesela a jasně a strýc Pepin křičel.
 
@@ -66,4 +66,4 @@ Mrkal jsem očima, a čím víc jsem chtěl nevěřit svým očím, tím přesn
 
   
 
-[1](#footnote-27518-1-backlink) Vlevo odrazit! Vpravo odrazit! Jednoduchý úder! _Pozn. red._
+[^1]: Vlevo odrazit! Vpravo odrazit! Jednoduchý úder! _Pozn. red._
