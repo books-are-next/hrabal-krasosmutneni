@@ -1,138 +1,85 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-krasosmutneni-140b93c",
+  "edition": "beletrie",
+  "identifier": "hrabal-krasosmutneni-1cf0fee",
   "modified": "2021-08-26T07:54:46.665Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Krasosmutnění",
-  "revision": "140b93c",
+  "revision": "1cf0fee",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:29:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379743790
+    "date": "Thu Dec 02 2021 11:27:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638444469470
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 135,
-      "chars": 896,
-      "ideas": 19,
-      "role": "colophon",
-      "order": null,
-      "next": "krasosmutneni_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "krasosmutneni_005.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "krasosmutneni_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "krasosmutneni_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Krasosmutnění",
       "file": "krasosmutneni_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "krasosmutneni_005.html",
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krasosmutneni_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Krasosmutnění",
       "file": "krasosmutneni_003.html",
       "words": 3,
       "chars": 27,
       "ideas": 2,
-      "role": "other",
-      "order": null,
+      "role": "chapter",
+      "order": 1,
+      "prev": "krasosmutneni_002.html",
       "next": "krasosmutneni_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mořská panna",
+      "title": "Mořská panna • Krasosmutnění",
       "file": "krasosmutneni_005.html",
       "words": 2884,
       "chars": 16190,
       "ideas": 76,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 2,
+      "prev": "krasosmutneni_003.html",
       "next": "krasosmutneni_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Mořská panna",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Čtvereční centimetr za šedesát korun",
+      "title": "Čtvereční centimetr za šedesát korun • Krasosmutnění",
       "file": "krasosmutneni_006.html",
       "words": 3491,
       "chars": 19805,
       "ideas": 62,
       "role": "chapter",
-      "order": 1,
+      "order": 3,
       "prev": "krasosmutneni_005.html",
       "next": "krasosmutneni_007.html",
       "toc": [
@@ -140,19 +87,19 @@
           "index": 0,
           "level": 1,
           "name": "Čtvereční centimetr za šedesát korun",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Každý den zázrak",
+      "title": "Každý den zázrak • Krasosmutnění",
       "file": "krasosmutneni_007.html",
       "words": 2654,
       "chars": 14777,
       "ideas": 27,
       "role": "chapter",
-      "order": 2,
+      "order": 4,
       "prev": "krasosmutneni_006.html",
       "next": "krasosmutneni_008.html",
       "toc": [
@@ -160,19 +107,19 @@
           "index": 0,
           "level": 1,
           "name": "Každý den zázrak",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rozdělený byt",
+      "title": "Rozdělený byt • Krasosmutnění",
       "file": "krasosmutneni_008.html",
       "words": 2671,
       "chars": 15224,
       "ideas": 14,
       "role": "chapter",
-      "order": 3,
+      "order": 5,
       "prev": "krasosmutneni_007.html",
       "next": "krasosmutneni_009.html",
       "toc": [
@@ -180,19 +127,19 @@
           "index": 0,
           "level": 1,
           "name": "Rozdělený byt",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Znesvěcený rozdělovač",
+      "title": "Znesvěcený rozdělovač • Krasosmutnění",
       "file": "krasosmutneni_009.html",
       "words": 2486,
       "chars": 14254,
       "ideas": 32,
       "role": "chapter",
-      "order": 4,
+      "order": 6,
       "prev": "krasosmutneni_008.html",
       "next": "krasosmutneni_010.html",
       "toc": [
@@ -200,19 +147,19 @@
           "index": 0,
           "level": 1,
           "name": "Znesvěcený rozdělovač",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Úmrtí v rodině",
+      "title": "Úmrtí v rodině • Krasosmutnění",
       "file": "krasosmutneni_010.html",
       "words": 2175,
       "chars": 12175,
       "ideas": 20,
       "role": "chapter",
-      "order": 5,
+      "order": 7,
       "prev": "krasosmutneni_009.html",
       "next": "krasosmutneni_011.html",
       "toc": [
@@ -220,19 +167,19 @@
           "index": 0,
           "level": 1,
           "name": "Úmrtí v rodině",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Řidič pražských tramvají",
+      "title": "Řidič pražských tramvají • Krasosmutnění",
       "file": "krasosmutneni_011.html",
       "words": 2793,
       "chars": 16135,
       "ideas": 60,
       "role": "chapter",
-      "order": 6,
+      "order": 8,
       "prev": "krasosmutneni_010.html",
       "next": "krasosmutneni_012.html",
       "toc": [
@@ -240,19 +187,19 @@
           "index": 0,
           "level": 1,
           "name": "Řidič pražských tramvají",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Veřejné osvětlení",
+      "title": "Veřejné osvětlení • Krasosmutnění",
       "file": "krasosmutneni_012.html",
       "words": 2,
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 9,
       "prev": "krasosmutneni_011.html",
       "next": "krasosmutneni_013.html",
       "toc": [
@@ -260,19 +207,19 @@
           "index": 0,
           "level": 1,
           "name": "Veřejné osvětlení",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Myš ukradla dítěti cumel",
+      "title": "Myš ukradla dítěti cumel • Krasosmutnění",
       "file": "krasosmutneni_013.html",
       "words": 3406,
-      "chars": 19643,
+      "chars": 19646,
       "ideas": 32,
       "role": "chapter",
-      "order": 8,
+      "order": 10,
       "prev": "krasosmutneni_012.html",
       "next": "krasosmutneni_014.html",
       "toc": [
@@ -280,19 +227,19 @@
           "index": 0,
           "level": 1,
           "name": "Myš ukradla dítěti cumel",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Krasosmutnění",
+      "title": "Krasosmutnění • Krasosmutnění",
       "file": "krasosmutneni_014.html",
       "words": 2859,
       "chars": 16481,
       "ideas": 47,
       "role": "chapter",
-      "order": 9,
+      "order": 11,
       "prev": "krasosmutneni_013.html",
       "next": "krasosmutneni_015.html",
       "toc": [
@@ -300,19 +247,19 @@
           "index": 0,
           "level": 1,
           "name": "Krasosmutnění",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ovčí hubičky",
+      "title": "Ovčí hubičky • Krasosmutnění",
       "file": "krasosmutneni_015.html",
       "words": 2,
       "chars": 12,
       "ideas": 1,
       "role": "chapter",
-      "order": 10,
+      "order": 12,
       "prev": "krasosmutneni_014.html",
       "next": "krasosmutneni_016.html",
       "toc": [
@@ -320,19 +267,19 @@
           "index": 0,
           "level": 1,
           "name": "Ovčí hubičky",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Když umře hospodář, pláče i dobytek",
+      "title": "Když umře hospodář, pláče i dobytek • Krasosmutnění",
       "file": "krasosmutneni_016.html",
       "words": 2095,
       "chars": 11625,
       "ideas": 12,
       "role": "chapter",
-      "order": 11,
+      "order": 13,
       "prev": "krasosmutneni_015.html",
       "next": "krasosmutneni_017.html",
       "toc": [
@@ -340,19 +287,19 @@
           "index": 0,
           "level": 1,
           "name": "Když umře hospodář, pláče i dobytek",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jetel růžák",
+      "title": "Jetel růžák • Krasosmutnění",
       "file": "krasosmutneni_017.html",
       "words": 2505,
       "chars": 14306,
       "ideas": 4,
       "role": "chapter",
-      "order": 12,
+      "order": 14,
       "prev": "krasosmutneni_016.html",
       "next": "krasosmutneni_018.html",
       "toc": [
@@ -360,19 +307,19 @@
           "index": 0,
           "level": 1,
           "name": "Jetel růžák",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Návrat ztraceného strýce",
+      "title": "Návrat ztraceného strýce • Krasosmutnění",
       "file": "krasosmutneni_018.html",
       "words": 2343,
       "chars": 13263,
       "ideas": 51,
       "role": "chapter",
-      "order": 13,
+      "order": 15,
       "prev": "krasosmutneni_017.html",
       "next": "krasosmutneni_019.html",
       "toc": [
@@ -380,19 +327,19 @@
           "index": 0,
           "level": 1,
           "name": "Návrat ztraceného strýce",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Škodovka čtyřistatřicítka",
+      "title": "Škodovka čtyřistatřicítka • Krasosmutnění",
       "file": "krasosmutneni_019.html",
       "words": 2818,
       "chars": 16191,
       "ideas": 66,
       "role": "chapter",
-      "order": 14,
+      "order": 16,
       "prev": "krasosmutneni_018.html",
       "next": "krasosmutneni_020.html",
       "toc": [
@@ -400,19 +347,19 @@
           "index": 0,
           "level": 1,
           "name": "Škodovka čtyřistatřicítka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Krásná řeznice",
+      "title": "Krásná řeznice • Krasosmutnění",
       "file": "krasosmutneni_020.html",
       "words": 2889,
       "chars": 16560,
       "ideas": 51,
       "role": "chapter",
-      "order": 15,
+      "order": 17,
       "prev": "krasosmutneni_019.html",
       "next": "krasosmutneni_021.html",
       "toc": [
@@ -420,19 +367,19 @@
           "index": 0,
           "level": 1,
           "name": "Krásná řeznice",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hudebníci ze Šumavy",
+      "title": "Hudebníci ze Šumavy • Krasosmutnění",
       "file": "krasosmutneni_021.html",
       "words": 2214,
       "chars": 12493,
       "ideas": 3,
       "role": "chapter",
-      "order": 16,
+      "order": 18,
       "prev": "krasosmutneni_020.html",
       "next": "krasosmutneni_022.html",
       "toc": [
@@ -440,19 +387,19 @@
           "index": 0,
           "level": 1,
           "name": "Hudebníci ze Šumavy",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sextánka",
+      "title": "Sextánka • Krasosmutnění",
       "file": "krasosmutneni_022.html",
       "words": 3194,
       "chars": 17828,
       "ideas": 3,
       "role": "chapter",
-      "order": 17,
+      "order": 19,
       "prev": "krasosmutneni_021.html",
       "next": "krasosmutneni_023.html",
       "toc": [
@@ -460,19 +407,19 @@
           "index": 0,
           "level": 1,
           "name": "Sextánka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Armagedon",
+      "title": "Armagedon • Krasosmutnění",
       "file": "krasosmutneni_023.html",
       "words": 2001,
       "chars": 11583,
       "ideas": 18,
       "role": "chapter",
-      "order": 18,
+      "order": 20,
       "prev": "krasosmutneni_022.html",
       "next": "krasosmutneni_024.html",
       "toc": [
@@ -480,19 +427,19 @@
           "index": 0,
           "level": 1,
           "name": "Armagedon",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rakouský vítěz",
+      "title": "Rakouský vítěz • Krasosmutnění",
       "file": "krasosmutneni_024.html",
       "words": 2114,
-      "chars": 12394,
+      "chars": 12397,
       "ideas": 20,
       "role": "chapter",
-      "order": 19,
+      "order": 21,
       "prev": "krasosmutneni_023.html",
       "next": "krasosmutneni_025.html",
       "toc": [
@@ -500,19 +447,19 @@
           "index": 0,
           "level": 1,
           "name": "Rakouský vítěz",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Žlutý pták",
+      "title": "Žlutý pták • Krasosmutnění",
       "file": "krasosmutneni_025.html",
       "words": 1727,
       "chars": 9856,
       "ideas": 8,
       "role": "chapter",
-      "order": 20,
+      "order": 22,
       "prev": "krasosmutneni_024.html",
       "next": "krasosmutneni_026.html",
       "toc": [
@@ -520,19 +467,19 @@
           "index": 0,
           "level": 1,
           "name": "Žlutý pták",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Altánek z proutí",
+      "title": "Altánek z proutí • Krasosmutnění",
       "file": "krasosmutneni_026.html",
       "words": 1822,
       "chars": 10647,
       "ideas": 18,
       "role": "chapter",
-      "order": 21,
+      "order": 23,
       "prev": "krasosmutneni_025.html",
       "next": "krasosmutneni_027.html",
       "toc": [
@@ -540,72 +487,82 @@
           "index": 0,
           "level": 1,
           "name": "Altánek z proutí",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kmotříček",
+      "title": "Kmotříček • Krasosmutnění",
       "file": "krasosmutneni_027.html",
       "words": 3196,
       "chars": 18473,
       "ideas": 41,
       "role": "chapter",
-      "order": 22,
+      "order": 24,
       "prev": "krasosmutneni_026.html",
-      "next": null,
+      "next": "krasosmutneni_029.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kmotříček",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Krasosmutnění",
       "file": "krasosmutneni_029.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "krasosmutneni_005.html",
+      "role": "chapter",
+      "order": 25,
+      "prev": "krasosmutneni_027.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Krasosmutnění",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 892,
+      "ideas": 19,
+      "role": "colophon",
       "order": null,
-      "next": "krasosmutneni_005.html",
-      "toc": []
+      "prev": "krasosmutneni_029.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 54479,
-      "chars": 310855,
-      "ideas": 688
+      "words": 54483,
+      "chars": 310895,
+      "ideas": 692
     },
     "chapters": {
-      "words": 54341,
-      "chars": 309932,
-      "ideas": 667
+      "words": 54344,
+      "chars": 309965,
+      "ideas": 669
     }
   }
 }
