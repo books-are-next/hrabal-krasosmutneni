@@ -1,5 +1,6 @@
 ---
 title: Sextánka
+contentType: prose
 ---
 
   

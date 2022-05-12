@@ -1,5 +1,6 @@
 ---
 title: Veřejné osvětlení
+contentType: prose
 ---
 
   

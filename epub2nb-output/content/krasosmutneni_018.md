@@ -1,5 +1,6 @@
 ---
 title: Návrat ztraceného strýce
+contentType: prose
 ---
 
   

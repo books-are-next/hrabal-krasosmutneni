@@ -1,5 +1,6 @@
 ---
 title: Rakouský vítěz
+contentType: prose
 ---
 
   

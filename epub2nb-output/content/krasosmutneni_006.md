@@ -1,5 +1,6 @@
 ---
 title: Čtvereční centimetr za šedesát korun
+contentType: prose
 ---
 
   

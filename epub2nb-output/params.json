@@ -44,7 +44,7 @@
         "filename": "krasosmutneni_002.md",
         "xhtml": "krasosmutneni_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": true,
         "title": "",
@@ -356,7 +356,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T11:26:57.443Z"
+      "modified": "2020-03-26T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -598,6 +598,6 @@
       "user": "books-are-next",
       "repo": "hrabal-krasosmutneni"
     },
-    "generatedAt": 1638444418058
+    "generatedAt": 1652351288628
   }
 }

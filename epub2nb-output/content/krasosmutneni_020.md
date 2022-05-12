@@ -1,5 +1,6 @@
 ---
 title: Krásná řeznice
+contentType: prose
 ---
 
   

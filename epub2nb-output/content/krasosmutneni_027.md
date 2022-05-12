@@ -1,5 +1,6 @@
 ---
 title: Kmotříček
+contentType: prose
 ---
 
   

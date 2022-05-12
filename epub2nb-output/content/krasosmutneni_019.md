@@ -1,5 +1,6 @@
 ---
 title: Škodovka čtyřistatřicítka
+contentType: prose
 ---
 
   

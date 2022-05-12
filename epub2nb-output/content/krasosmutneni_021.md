@@ -1,5 +1,6 @@
 ---
 title: Hudebníci ze Šumavy
+contentType: prose
 ---
 
   

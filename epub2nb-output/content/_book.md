@@ -1,6 +1,8 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
+languageCode: en
 meta:
   title: Krasosmutnění
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
@@ -10,7 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - krasosmutneni_002.html
+  - promo.html
   - krasosmutneni_003.html
   - krasosmutneni_005.html
   - krasosmutneni_006.html

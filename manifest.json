@@ -1,20 +1,52 @@
 {
-  "author": "Bohumil Hrabal",
-  "edition": "beletrie",
-  "identifier": "hrabal-krasosmutneni-1cf0fee",
-  "modified": "2021-08-26T07:54:46.665Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Krasosmutnění",
-  "revision": "1cf0fee",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "en",
+  "root": "main",
+  "identifier": "hrabal-krasosmutneni-283c7ac",
+  "revision": "283c7ac",
+  "readingOrder": [
+    "promo.html",
+    "krasosmutneni_003.html",
+    "krasosmutneni_005.html",
+    "krasosmutneni_006.html",
+    "krasosmutneni_007.html",
+    "krasosmutneni_008.html",
+    "krasosmutneni_009.html",
+    "krasosmutneni_010.html",
+    "krasosmutneni_011.html",
+    "krasosmutneni_012.html",
+    "krasosmutneni_013.html",
+    "krasosmutneni_014.html",
+    "krasosmutneni_015.html",
+    "krasosmutneni_016.html",
+    "krasosmutneni_017.html",
+    "krasosmutneni_018.html",
+    "krasosmutneni_019.html",
+    "krasosmutneni_020.html",
+    "krasosmutneni_021.html",
+    "krasosmutneni_022.html",
+    "krasosmutneni_023.html",
+    "krasosmutneni_024.html",
+    "krasosmutneni_025.html",
+    "krasosmutneni_026.html",
+    "krasosmutneni_027.html",
+    "krasosmutneni_029.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 11:27:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638444469470
+    "date": "Thu May 12 2022 10:35:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351743345
   },
   "documents": [
     {
-      "title": "Krasosmutnění",
-      "file": "krasosmutneni_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,15 +54,7 @@
       "order": 0,
       "prev": null,
       "next": "krasosmutneni_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Krasosmutnění",
@@ -40,7 +64,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "krasosmutneni_002.html",
+      "prev": "promo.html",
       "next": "krasosmutneni_005.html",
       "toc": [
         {
@@ -53,7 +77,7 @@
       ]
     },
     {
-      "title": "Mořská panna • Krasosmutnění",
+      "title": "Mořská panna",
       "file": "krasosmutneni_005.html",
       "words": 2884,
       "chars": 16190,
@@ -73,7 +97,7 @@
       ]
     },
     {
-      "title": "Čtvereční centimetr za šedesát korun • Krasosmutnění",
+      "title": "Čtvereční centimetr za šedesát korun",
       "file": "krasosmutneni_006.html",
       "words": 3491,
       "chars": 19805,
@@ -93,7 +117,7 @@
       ]
     },
     {
-      "title": "Každý den zázrak • Krasosmutnění",
+      "title": "Každý den zázrak",
       "file": "krasosmutneni_007.html",
       "words": 2654,
       "chars": 14777,
@@ -113,7 +137,7 @@
       ]
     },
     {
-      "title": "Rozdělený byt • Krasosmutnění",
+      "title": "Rozdělený byt",
       "file": "krasosmutneni_008.html",
       "words": 2671,
       "chars": 15224,
@@ -133,7 +157,7 @@
       ]
     },
     {
-      "title": "Znesvěcený rozdělovač • Krasosmutnění",
+      "title": "Znesvěcený rozdělovač",
       "file": "krasosmutneni_009.html",
       "words": 2486,
       "chars": 14254,
@@ -153,7 +177,7 @@
       ]
     },
     {
-      "title": "Úmrtí v rodině • Krasosmutnění",
+      "title": "Úmrtí v rodině",
       "file": "krasosmutneni_010.html",
       "words": 2175,
       "chars": 12175,
@@ -173,7 +197,7 @@
       ]
     },
     {
-      "title": "Řidič pražských tramvají • Krasosmutnění",
+      "title": "Řidič pražských tramvají",
       "file": "krasosmutneni_011.html",
       "words": 2793,
       "chars": 16135,
@@ -193,7 +217,7 @@
       ]
     },
     {
-      "title": "Veřejné osvětlení • Krasosmutnění",
+      "title": "Veřejné osvětlení",
       "file": "krasosmutneni_012.html",
       "words": 2,
       "chars": 17,
@@ -213,7 +237,7 @@
       ]
     },
     {
-      "title": "Myš ukradla dítěti cumel • Krasosmutnění",
+      "title": "Myš ukradla dítěti cumel",
       "file": "krasosmutneni_013.html",
       "words": 3406,
       "chars": 19646,
@@ -233,7 +257,7 @@
       ]
     },
     {
-      "title": "Krasosmutnění • Krasosmutnění",
+      "title": "Krasosmutnění",
       "file": "krasosmutneni_014.html",
       "words": 2859,
       "chars": 16481,
@@ -253,7 +277,7 @@
       ]
     },
     {
-      "title": "Ovčí hubičky • Krasosmutnění",
+      "title": "Ovčí hubičky",
       "file": "krasosmutneni_015.html",
       "words": 2,
       "chars": 12,
@@ -273,7 +297,7 @@
       ]
     },
     {
-      "title": "Když umře hospodář, pláče i dobytek • Krasosmutnění",
+      "title": "Když umře hospodář, pláče i dobytek",
       "file": "krasosmutneni_016.html",
       "words": 2095,
       "chars": 11625,
@@ -293,7 +317,7 @@
       ]
     },
     {
-      "title": "Jetel růžák • Krasosmutnění",
+      "title": "Jetel růžák",
       "file": "krasosmutneni_017.html",
       "words": 2505,
       "chars": 14306,
@@ -313,7 +337,7 @@
       ]
     },
     {
-      "title": "Návrat ztraceného strýce • Krasosmutnění",
+      "title": "Návrat ztraceného strýce",
       "file": "krasosmutneni_018.html",
       "words": 2343,
       "chars": 13263,
@@ -333,7 +357,7 @@
       ]
     },
     {
-      "title": "Škodovka čtyřistatřicítka • Krasosmutnění",
+      "title": "Škodovka čtyřistatřicítka",
       "file": "krasosmutneni_019.html",
       "words": 2818,
       "chars": 16191,
@@ -353,7 +377,7 @@
       ]
     },
     {
-      "title": "Krásná řeznice • Krasosmutnění",
+      "title": "Krásná řeznice",
       "file": "krasosmutneni_020.html",
       "words": 2889,
       "chars": 16560,
@@ -373,7 +397,7 @@
       ]
     },
     {
-      "title": "Hudebníci ze Šumavy • Krasosmutnění",
+      "title": "Hudebníci ze Šumavy",
       "file": "krasosmutneni_021.html",
       "words": 2214,
       "chars": 12493,
@@ -393,7 +417,7 @@
       ]
     },
     {
-      "title": "Sextánka • Krasosmutnění",
+      "title": "Sextánka",
       "file": "krasosmutneni_022.html",
       "words": 3194,
       "chars": 17828,
@@ -413,7 +437,7 @@
       ]
     },
     {
-      "title": "Armagedon • Krasosmutnění",
+      "title": "Armagedon",
       "file": "krasosmutneni_023.html",
       "words": 2001,
       "chars": 11583,
@@ -433,7 +457,7 @@
       ]
     },
     {
-      "title": "Rakouský vítěz • Krasosmutnění",
+      "title": "Rakouský vítěz",
       "file": "krasosmutneni_024.html",
       "words": 2114,
       "chars": 12397,
@@ -453,7 +477,7 @@
       ]
     },
     {
-      "title": "Žlutý pták • Krasosmutnění",
+      "title": "Žlutý pták",
       "file": "krasosmutneni_025.html",
       "words": 1727,
       "chars": 9856,
@@ -473,7 +497,7 @@
       ]
     },
     {
-      "title": "Altánek z proutí • Krasosmutnění",
+      "title": "Altánek z proutí",
       "file": "krasosmutneni_026.html",
       "words": 1822,
       "chars": 10647,
@@ -493,7 +517,7 @@
       ]
     },
     {
-      "title": "Kmotříček • Krasosmutnění",
+      "title": "Kmotříček",
       "file": "krasosmutneni_027.html",
       "words": 3196,
       "chars": 18473,
@@ -533,11 +557,11 @@
       ]
     },
     {
-      "title": "Tiráž • Krasosmutnění",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 892,
-      "ideas": 19,
+      "words": 119,
+      "chars": 782,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "krasosmutneni_029.html",
@@ -555,9 +579,9 @@
   ],
   "totals": {
     "all": {
-      "words": 54483,
-      "chars": 310895,
-      "ideas": 692
+      "words": 54468,
+      "chars": 310785,
+      "ideas": 688
     },
     "chapters": {
       "words": 54344,

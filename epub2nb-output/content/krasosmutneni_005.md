@@ -1,5 +1,6 @@
 ---
 title: Mořská panna
+contentType: prose
 ---
 
   
