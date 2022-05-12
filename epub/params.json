@@ -45,7 +45,7 @@
         "filename": "krasosmutneni_002.md",
         "xhtml": "krasosmutneni_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": true,
         "title": "",
@@ -602,4 +602,3 @@
     "generatedAt": 1629964794337
   }
 }
-
