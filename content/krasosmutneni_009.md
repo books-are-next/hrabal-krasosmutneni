@@ -1,5 +1,6 @@
 ---
 title: Znesvěcený rozdělovač
+contentType: prose
 ---
 
   

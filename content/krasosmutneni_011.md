@@ -1,5 +1,6 @@
 ---
 title: Řidič pražských tramvají
+contentType: prose
 ---
 
   

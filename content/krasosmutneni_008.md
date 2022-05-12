@@ -1,5 +1,6 @@
 ---
 title: Rozdělený byt
+contentType: prose
 ---
 
   

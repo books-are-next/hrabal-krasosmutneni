@@ -1,5 +1,6 @@
 ---
 title: "Altánek z\_proutí"
+contentType: prose
 ---
 
   

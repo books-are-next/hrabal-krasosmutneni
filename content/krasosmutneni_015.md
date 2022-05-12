@@ -1,5 +1,6 @@
 ---
 title: Ovčí hubičky
+contentType: prose
 ---
 
   

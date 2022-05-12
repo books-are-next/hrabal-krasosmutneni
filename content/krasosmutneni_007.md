@@ -1,5 +1,6 @@
 ---
 title: Každý den zázrak
+contentType: prose
 ---
 
   

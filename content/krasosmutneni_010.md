@@ -1,5 +1,6 @@
 ---
 title: "Úmrtí v\_rodině"
+contentType: prose
 ---
 
   

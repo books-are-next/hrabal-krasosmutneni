@@ -1,5 +1,6 @@
 ---
 title: Myš ukradla dítěti cumel
+contentType: prose
 ---
 
   

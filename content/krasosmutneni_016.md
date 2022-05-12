@@ -1,5 +1,6 @@
 ---
 title: "Když umře hospodář, pláče i\_dobytek"
+contentType: prose
 ---
 
   

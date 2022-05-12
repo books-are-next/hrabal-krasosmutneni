@@ -1,5 +1,6 @@
 ---
 title: Žlutý pták
+contentType: prose
 ---
 
   

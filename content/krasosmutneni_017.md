@@ -1,5 +1,6 @@
 ---
 title: Jetel růžák
+contentType: prose
 ---
 
   

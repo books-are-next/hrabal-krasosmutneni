@@ -1,5 +1,6 @@
 ---
 title: Armagedon
+contentType: prose
 ---
 
   
