@@ -3,6 +3,8 @@ title: Krásná řeznice
 contentType: prose
 ---
 
+<section>
+
 Nikdo nikdy neviděl v našem městečku, aby strýc Pepin a správce pivovaru si vyšli spolu. Nesl jsem kufřík s fulguračním zářením, protože matka řekla, že to tak bude lepší, protože paní řeznice paní Majerová měla krásné vlasy, ty samé vlasy, které si maminka dala už dávno ostříhat. A tak jsme kráčeli podvečerem uličkami, lidé se vykláněli z oken a dívali se na chodce, byli vykloněni a za nimi byly záclony a občané, když viděli dva bratry, tak zaváhali. Jako přátelům strýce Pepina se jim chtělo pozdravit strýce a vyptat se jej na hlouposti, ale když viděli tatínka, tak zase se polekali, že to je lest pana správce pivovaru, že najednou se jich zeptá, co dělají v sobotu odpoledne, a než se vzpamatují, tak jim tatínek řekne, tak přijděte mi na hodinku, nejvýše na dvě hodiny přidržet kontramatky. A jak jsme šli večerním soumrakem, tak lidé volili zlatou střední cestu, stáhli se z okna, vymotali se ze záclon a čekali, až jsme přešli. Tak jsme došli až ke schůdkům řeznického krámu pana Majera. Na hácích ve světle stahovací lampy, cloněné novinami, visely vepřové kořínky, a hovězí flaksy, několik věnců vuřtů a na řeznickém špalku se leskly nože. Paní Majerová v bílém šátku seděla na židli a tupě se dívala na svoje nohy, napila se z hrníčku a v zamyšlení rozbalila hašlerku, odhodila bonbón a do úst si dala papírek obalu hašlerky. Stáli jsme na schodech a dívali jsme se na řeznici, která teď vzala pohlednici, zvedla zástěru a začala pečlivě čistit ten pohled, pak v zadumání vzala brejle a chtěla si místo brejlí nasadit na oči pohlednici a přečíst něco z brejlí. Tak chvíli pracovala zmateně rukama, aby nakonec odložila brejle i pohlednici. A otec dal znamení a tak jsme vešli, strýcova námořní čepice potěšila řeznici, a když se podívala na tatínka, hned věděla, proč otec přišel.
 
 Oho, mistře, řekla, zatancujeme si?
@@ -102,3 +104,5 @@ Co jste s tím dělali, že to tak voní?
 Matka stáhla hedvábný papír a zvedla krásnou láhev s griotkou, ale otec, jen uviděl tu griotku, tak tak že odsunul ten otevřený kufříček a začal znovu dávit a do kbelíku u postele vydávil trošku zelené vodičky. Maminka nalila strýci Pepinovi sklenku sagavíru a strýc připil na zdraví celé rodiny a pak řekl tatínkovi.
 
 Co jsme s tím dělali? Celá hospoda na Žofíně byla auf! Krasavice si lehly na biliár a já jsem jim dával do vlasů fulgurační proudy, protože podle spisku páně Batisty záruka blaha manželského je zdravé a urostlé tělo.
+
+</section>

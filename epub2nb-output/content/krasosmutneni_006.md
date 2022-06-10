@@ -3,6 +3,8 @@ title: Čtvereční centimetr za šedesát korun
 contentType: prose
 ---
 
+<section>
+
 Seděl jsem u malého stolečku a psal jsem domácí úkol z pilnosti, když dvorem pivovaru kráčel strýc Pepin. Ta jeho námořní čepice, kterou ušil na míru sám kloboučník a čepičář pan Šisler podle bílé čepice, kterou nosil Hans Albers, ta čepice plula jako lodička pivovarským dvorem. Pak se strýc zastavil, z kapsy vytáhl kartáček, sundal čepici a pečlivě ji čistil, tak něžně, jako by hladil malého ptáčka. Pak si ji nasadil a plný pýchy vešel k nám.
 
 A večeřeli jsme mazané krajíce sádlem, matka přinesla kbelík a krájeli jsme chléb a jedli se strýcem krajíc za krajícem a zapíjeli to pivem.
@@ -124,3 +126,5 @@ Když srazil postele dohromady, maminka vklouzla pod peřinu a řekla plna úle
 Moje postýlka, moje postýlka!
 
 Otec zhasil, slyšel jsem šramot jeho bosých nohou, pak sténání matrací, chvíli sebou mrskal, nakonec se ztišil. Ten Garry Cooper, řekl tatínek něžně, je nejen výborný herec, ale krásnej člověk… Tam, jak hrál na trombón, nebo jak stavěl svůj dům, jak mezi trámy seděl a už přijímal hosty… nebo když mu řekla, že ho má ráda, jak utíkal, jak porazil kbelíky… Jak říkám, ta Úžasná událost je opravdu úžasná… Zejtra to hrají ještě, půjdeme se na to podívat znovu, ano?
+
+</section>

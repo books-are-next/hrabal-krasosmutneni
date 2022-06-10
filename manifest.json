@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "hrabal-krasosmutneni-7f5c393",
-  "revision": "7f5c393",
+  "identifier": "hrabal-krasosmutneni-cd08a41",
+  "revision": "cd08a41",
   "readingOrder": [
     "promo.html",
     "krasosmutneni_003.html",
@@ -40,8 +40,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:16:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870611587
+    "date": "Fri Jun 10 2022 17:50:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883417092
   },
   "documents": [
     {
@@ -219,9 +219,9 @@
     {
       "title": "Veřejné osvětlení",
       "file": "krasosmutneni_012.html",
-      "words": 2,
-      "chars": 17,
-      "ideas": 1,
+      "words": 1903,
+      "chars": 11163,
+      "ideas": 2,
       "role": "chapter",
       "order": 9,
       "prev": "krasosmutneni_011.html",
@@ -279,9 +279,9 @@
     {
       "title": "Ovčí hubičky",
       "file": "krasosmutneni_015.html",
-      "words": 2,
-      "chars": 12,
-      "ideas": 1,
+      "words": 1794,
+      "chars": 10397,
+      "ideas": 2,
       "role": "chapter",
       "order": 12,
       "prev": "krasosmutneni_014.html",
@@ -539,9 +539,9 @@
     {
       "title": "Krasosmutnění",
       "file": "krasosmutneni_029.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 25,
       "prev": "krasosmutneni_027.html",
@@ -559,9 +559,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 113,
-      "chars": 746,
-      "ideas": 14,
+      "words": 84,
+      "chars": 579,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "krasosmutneni_029.html",
@@ -579,14 +579,14 @@
   ],
   "totals": {
     "all": {
-      "words": 54462,
-      "chars": 310749,
-      "ideas": 687
+      "words": 58127,
+      "chars": 332113,
+      "ideas": 683
     },
     "chapters": {
-      "words": 54344,
-      "chars": 309965,
-      "ideas": 669
+      "words": 58038,
+      "chars": 331496,
+      "ideas": 672
     }
   }
 }
