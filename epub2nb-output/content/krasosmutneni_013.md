@@ -3,8 +3,6 @@ title: Myš ukradla dítěti cumel
 contentType: prose
 ---
 
-  
-
 Pan podstarší býval kdysi v pivovaře sladovníkem a potom spilákem a teprve pak se stal podstarším. Psal do notesu dělníkům šichty a přesčasové hodiny, podával zprávu ve správě pivovaru o hospodaření s hodinami a měl z toho tak velikou radost, že každý už zdálky na jeho tváři viděl, jak sám si sebe váží, jak má ze sebe radost, kam až to dotáhl. Hrozně byl rád, když některý dělník přišel do práce pozdě, mohl mu vynadat a udělat do notesu poznámku, dokonce mohl pohrozit, že na každé dělnické místo v pivovaře čeká venku s čepicí v ruce dalších dvacet nezaměstnaných. Strýce Pepina neměl rád. Jednak že strýc tak řval, a hlavně proto, že tím, že mohl vynadat strýci, nepřímo vynadal mému otci, správci pivovaru, kterému záviděl. Když Pepin hulákal, tak pan podstarší, aby se zbavil jeho hlasu, tak dal strýce do prázdného kotle, kde strýc osvětlen žárovkou a obtočen kabelem vyklepával vodní kámen, sanytr. Tak vdutý do kotle strýc čtrnáct dní ležel nepřirozeně stočený a kladivem vyklepával kousek za kouskem, žlutý prach vířil, prach jemný jak kakao, ale strýc Pepin si zpíval, sehnutý, nebo vleže na zádech, jeho hlas se vznášel nad pivovarským komínem. A když přestal zpívat, tak každý dělník, když vešel do kotelny, naklonil se, podíval se do růžového prachu, ve kterém nebyl strýc Pepin ani vidět… A každý houkl do kotle, co jej napadlo.
 
 Pepine, je to pravda, že jsi pásl na frontě kozy? A šel dál, protože to stačilo, aby strýc tloukl kladivem ze všech sil, až sanytr prskal a rozletoval se na strany jako email z roztříštěného emailového hrnce, a strýc křičel.

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "hrabal-krasosmutneni-283c7ac",
-  "revision": "283c7ac",
+  "identifier": "hrabal-krasosmutneni-7f5c393",
+  "revision": "7f5c393",
   "readingOrder": [
     "promo.html",
     "krasosmutneni_003.html",
@@ -40,8 +40,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:35:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351743345
+    "date": "Fri Jun 10 2022 14:16:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870611587
   },
   "documents": [
     {
@@ -559,9 +559,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 119,
-      "chars": 782,
-      "ideas": 15,
+      "words": 113,
+      "chars": 746,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "krasosmutneni_029.html",
@@ -579,9 +579,9 @@
   ],
   "totals": {
     "all": {
-      "words": 54468,
-      "chars": 310785,
-      "ideas": 688
+      "words": 54462,
+      "chars": 310749,
+      "ideas": 687
     },
     "chapters": {
       "words": 54344,
