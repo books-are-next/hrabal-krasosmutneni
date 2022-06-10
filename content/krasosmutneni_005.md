@@ -3,8 +3,6 @@ title: Mořská panna
 contentType: prose
 ---
 
-  
-
 Ze školy jsem vyběhl rovnou na náplavku, kde stály šífy s pískem, čluny, ze kterých po prkně a na kolečku vyvážel z břicha lodi pískař písek. Pískaři byli vždycky do půl těla opálení, ne tak jak se opalují naháči na plovárně, ale tak nějak jinak, při práci. Byli opálení jako nějaká reklama na opalovací krém. Jeden ten pískař mi učaroval už dávno. Na prsou i rukou měl vytetované mořské panny, kotvy, plachetní lodě. Jedna ta vytetovaná plachetka se mi tak líbila, že jsem si přál mít ji vytetovanou na prsou taky. Už dopředu jsem cítil, jak na mých prsou se vzdouvá ta lodička. Dodal jsem si dneska odvahu a povídám: Taková lodička, jakou máte vy, ta je nesmytelná, na celej život?
 
 Pískař se posadil na prkno, vytáhl cigaretu, zapálil si ji, a jak vdechoval a vydechoval, ta plachetka se vzdouvala a klesala, jako by plula na vlnách.
