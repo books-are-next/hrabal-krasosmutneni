@@ -3,6 +3,8 @@ title: Rozdělený byt
 contentType: prose
 ---
 
+<section>
+
 Doma jsme měli dvě kočky. Matka měla svého kocoura Celestýna, Celdu, otec svoji kočenku Militku. Celda, ten si mohl dovolit skoro všecko. Když spal na stole v kuchyni a zrovna byl čas k obědu, maminka prostřela v pokoji. Když spal na stole v pokoji a Militka na stole v kuchyni, tak jsme seděli na stoličkách a jídlo jsme měli na talířích na kolenou. Když ráno obě kočky se vrátily ze svých nočních cest docela promáčené rosou nebo zablácené od deště, tak rovnou vyskočily na vystlanou postel. Matka jim v tom nebránila, ale když přišel někdo na návštěvu a dal si klobouk na postel, matka vzala ten klobouk a pověsila jej na věšák. Když maminka šla večer do divadla na zkoušku, tak Celestýn ji doprovázel až na most, tam se schoval v křoví pod trafikou, a když se matka vracela, vyskočil a zase ji doprovázel nazpátek domů, do pivovaru. Otec zase měl svoji Militku, která za ním chodila i do kanceláře, dokonce i montovat Oriona. A když tatínek nikoho nepřemluvil, aby s ním montoval, tak vždycky Militka seděla na ponku, otec tak, jak rozmontovával motor, vyjmenovával a ukazoval Militce všechny součástky a kočka přivírala oči a potřásala v mozku obrazem tatínka, protože byla do něj zamilovaná. Celda měl otce taky rád, ale jen tak, že tatínek má rád maminku, do které se Celda zamiloval až po uši. A aby se otci zavděčil a ukázal mu, že v domě není nadarmo, tak každé ráno, když se otec probudil a díval se, jaké je venku počasí, pokaždé na okně byly vyrovnané Celdou nachytané myši, někdy i krysy. A otec je musel hákem od kamen dávat na lopatku a házet v zimě do rozpálených musgrávek číslo čtrnáct. V létě pak v kbelíku na uhlí je nosit až ke chlévům, vidlema nadzvednout hnůj a tam je pohřbít. Celda vážil čtyři a půl kilogramu. Nejdřív jsem zvážil sebe, a potom jsem vzal Celdu do náručí a zvážil kocoura. Když Celestýn byl zamilovaný, tak nepřišel domů někdy i čtrnáct dní. Matka často vstávala, v noci otevírala okno, pak dveře a volala do noci.
 
 Celestýne, Celdo!
@@ -28,3 +30,5 @@ A vletěli do kuchyně a Tatínek prackou srazil znovu Celestýna a zase jej 
 Otec zavřel okno a znovu rozsvítil svíčičky. Matka nesla na stůl rybí polévku s houbovými nočky.
 
 Chudák Celestýn, řekla matka.
+
+</section>

@@ -3,6 +3,8 @@ title: Myš ukradla dítěti cumel
 contentType: prose
 ---
 
+<section>
+
 Pan podstarší býval kdysi v pivovaře sladovníkem a potom spilákem a teprve pak se stal podstarším. Psal do notesu dělníkům šichty a přesčasové hodiny, podával zprávu ve správě pivovaru o hospodaření s hodinami a měl z toho tak velikou radost, že každý už zdálky na jeho tváři viděl, jak sám si sebe váží, jak má ze sebe radost, kam až to dotáhl. Hrozně byl rád, když některý dělník přišel do práce pozdě, mohl mu vynadat a udělat do notesu poznámku, dokonce mohl pohrozit, že na každé dělnické místo v pivovaře čeká venku s čepicí v ruce dalších dvacet nezaměstnaných. Strýce Pepina neměl rád. Jednak že strýc tak řval, a hlavně proto, že tím, že mohl vynadat strýci, nepřímo vynadal mému otci, správci pivovaru, kterému záviděl. Když Pepin hulákal, tak pan podstarší, aby se zbavil jeho hlasu, tak dal strýce do prázdného kotle, kde strýc osvětlen žárovkou a obtočen kabelem vyklepával vodní kámen, sanytr. Tak vdutý do kotle strýc čtrnáct dní ležel nepřirozeně stočený a kladivem vyklepával kousek za kouskem, žlutý prach vířil, prach jemný jak kakao, ale strýc Pepin si zpíval, sehnutý, nebo vleže na zádech, jeho hlas se vznášel nad pivovarským komínem. A když přestal zpívat, tak každý dělník, když vešel do kotelny, naklonil se, podíval se do růžového prachu, ve kterém nebyl strýc Pepin ani vidět… A každý houkl do kotle, co jej napadlo.
 
 Pepine, je to pravda, že jsi pásl na frontě kozy? A šel dál, protože to stačilo, aby strýc tloukl kladivem ze všech sil, až sanytr prskal a rozletoval se na strany jako email z roztříštěného emailového hrnce, a strýc křičel.
@@ -63,6 +65,10 @@ A teď budeme cvičit skupinku na půlnoční scénu!
 
 Mrkal jsem očima, a čím víc jsem chtěl nevěřit svým očím, tím přesněji jsem viděl, jak naši hosté se seřadili v posledním pokoji a jak přišli do prvního pokoje tou samou nohou, viděl jsem, jak se učili vykročit tak, aby botička s černou mašlí pleskla o podlahu stejně, viděl jsem, jak stáli pieroti v řadě, pokrčili koleno, vyklonili se stejně a prstíkem se každý dotkl tváře a natočil zvědavou hlavičku. Pak zase každý pierot stejně si založil ruce za hlavu, a otáčeli se napravo a nalevo. A pak celá řada pierotů drobnými krůčky odcupitala a poskakovala tak, až kolenem se střídavě dotkla malíčku. A já jsem se styděl a měl jsem najednou pocit, že jsem hrozně zestárl, že jsem starší než všichni pieroti. Pan řídící zatleskal, pieroti si dali na oči černé škrabošky a chodili sem a tam z pokoje do pokoje a dělali všichni, že se neznají, zdravili se, smáli se, žertovali jako na divadle, zatímco v novinách, které ležely na stole, byla tlustě vytištěná zpráva, že když to takhle půjde, tak asi bude světová válka.
 
-  
+</section>
+
+<section>
 
 [^1]: Vlevo odrazit! Vpravo odrazit! Jednoduchý úder! _Pozn. red._
+
+</section>
