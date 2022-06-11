@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-cd08a41';
+const CACHE = 'cache-7ff8dfd';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krasosmutneni_003.html","./krasosmutneni_005.html","./krasosmutneni_006.html","./krasosmutneni_007.html","./krasosmutneni_008.html","./krasosmutneni_010.html","./krasosmutneni_009.html","./krasosmutneni_011.html","./krasosmutneni_012.html","./krasosmutneni_013.html","./krasosmutneni_014.html","./krasosmutneni_015.html","./krasosmutneni_016.html","./krasosmutneni_017.html","./krasosmutneni_018.html","./krasosmutneni_019.html","./krasosmutneni_020.html","./krasosmutneni_021.html","./krasosmutneni_022.html","./krasosmutneni_023.html","./krasosmutneni_024.html","./krasosmutneni_025.html","./krasosmutneni_026.html","./krasosmutneni_027.html","./krasosmutneni_029.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_krasosmutneni_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./krasosmutneni_003.html","./krasosmutneni_005.html","./krasosmutneni_006.html","./krasosmutneni_007.html","./krasosmutneni_008.html","./krasosmutneni_009.html","./krasosmutneni_010.html","./krasosmutneni_011.html","./krasosmutneni_012.html","./krasosmutneni_013.html","./krasosmutneni_014.html","./krasosmutneni_015.html","./krasosmutneni_016.html","./krasosmutneni_017.html","./krasosmutneni_018.html","./krasosmutneni_019.html","./krasosmutneni_020.html","./krasosmutneni_021.html","./krasosmutneni_022.html","./krasosmutneni_023.html","./krasosmutneni_024.html","./krasosmutneni_025.html","./krasosmutneni_026.html","./krasosmutneni_027.html","./krasosmutneni_029.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_krasosmutneni_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
