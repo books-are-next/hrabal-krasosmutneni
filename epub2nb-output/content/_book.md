@@ -11,6 +11,7 @@ meta:
   modified: '2021-08-26T07:54:46.665Z'
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - krasosmutneni_003.html
