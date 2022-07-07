@@ -39,7 +39,7 @@ readingOrder:
   - krasosmutneni_026.html
   - krasosmutneni_027.html
   - krasosmutneni_029.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
