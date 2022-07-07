@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "hrabal-krasosmutneni-c3ad293",
-  "revision": "c3ad293",
+  "identifier": "hrabal-krasosmutneni-5b8aa03",
+  "revision": "5b8aa03",
   "readingOrder": [
     "promo.html",
     "krasosmutneni_003.html",
@@ -37,11 +37,11 @@
     "krasosmutneni_026.html",
     "krasosmutneni_027.html",
     "krasosmutneni_029.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:05:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978747894
+    "date": "Thu Jul 07 2022 08:25:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182329390
   },
   "documents": [
     {
@@ -110,7 +110,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Čtvereční centimetr za šedesát korun",
+          "name": "Čtvereční centimetr za šedesát korun",
           "id": null,
           "children": []
         }
@@ -410,7 +410,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hudebníci ze Šumavy",
+          "name": "Hudebníci ze Šumavy",
           "id": null,
           "children": []
         }
@@ -545,7 +545,7 @@
       "role": "chapter",
       "order": 25,
       "prev": "krasosmutneni_027.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -558,11 +558,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 127,
-      "chars": 853,
+      "chars": 852,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "krasosmutneni_029.html",
       "next": null,
@@ -580,7 +580,7 @@
   "totals": {
     "all": {
       "words": 58170,
-      "chars": 332387,
+      "chars": 332386,
       "ideas": 690
     },
     "chapters": {
