@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "hrabal-krasosmutneni-08fb7bb",
-  "revision": "08fb7bb",
+  "identifier": "hrabal-krasosmutneni-a66d33f",
+  "revision": "a66d33f",
   "readingOrder": [
     "promo.html",
     "krasosmutneni_003.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188004488
+    "date": "Thu Jul 21 2022 14:40:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414414130
   },
   "documents": [
     {
@@ -560,7 +560,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 852,
+      "chars": 853,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -580,7 +580,7 @@
   "totals": {
     "all": {
       "words": 58170,
-      "chars": 332386,
+      "chars": 332387,
       "ideas": 690
     },
     "chapters": {
