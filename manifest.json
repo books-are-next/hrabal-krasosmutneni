@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "hrabal-krasosmutneni-2bd9765",
-  "revision": "2bd9765",
+  "identifier": "hrabal-krasosmutneni-1df3bcc",
+  "revision": "1df3bcc",
   "readingOrder": [
     "promo.html",
     "krasosmutneni_003.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:24:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486670301
+    "date": "Sat Oct 01 2022 15:54:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639695340
   },
   "documents": [
     {
